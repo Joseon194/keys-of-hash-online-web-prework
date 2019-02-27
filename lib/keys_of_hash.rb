@@ -9,6 +9,5 @@ class Hash
        end
      end
      array
-    # code goes here
   end
 end
